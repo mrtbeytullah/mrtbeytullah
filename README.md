@@ -3,7 +3,7 @@
 # Merhaba, ben Beytullah Murat! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtbeytullah" alt="mrttbeytullah" /> </p>
 
-[![](https://img.shields.io/twitter/follow/mrtbeytullah?style=social)](https://www.twitter.com/mrtbeytullah)
+[![](https://img.shields.io/twitter/follow/mrttbeytullah?style=social)](https://www.twitter.com/mrttbeytullah)
 [![](https://img.shields.io/github/followers/mrtbeytullah?style=social)](https://www.github.com/mrtbeytullah)
 
 
